@@ -17,7 +17,7 @@
     "prettier": "^2.8.8",
     "webpack": "^5.82.0",
     "webpack-cli": "^5.0.2",
-    "webpack-merge": "^5.8.0"
+    "webpack-merge": "^5.9.0"
   },
   "dependencies": {
     "idb": "^7.1.1",
