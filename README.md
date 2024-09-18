@@ -1,5 +1,7 @@
 # Sesh Logger
 
+Шобы оно работало, нужён ssl сертификат и https.
+
 Basically a calendar for quick workout logs
 
 # Installation
